@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "bridge-main": {
+            "filetype": "stl",
+            "properties.location": "./%s.properties"
+        },
+        "helipad-main": {
+            "filetype": "stl",
+            "properties.location": "./%s.properties"
+        }
+    },
+    "other": {
+        "author": "TobezDev",
+        "conact": "tobezdev@lives-in-the.cloud"
+    }
+}
